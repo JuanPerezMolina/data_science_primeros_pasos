@@ -1,7 +1,7 @@
 <h1 align='center'>
  <b>Ciencia de datos: Conceptos básicos orientado al análisis estadístico de datos</b>
 </h1>
-Conceptos básicos orientado a la ingesta de datos en dataframe de pandas y el análisis estadístico con graficos de librerias de Python y presentacion pesoterior de informes objeticos, claros y concisos. 
+Conceptos básicos orientado a la ingesta de datos en dataframe de pandas y el análisis estadístico con graficos de librerias de Python y presentacion pesoterior de informes objetivos, claros y concisos. 
 
 ## **Estadística: Frecuencias y medidas**
 
